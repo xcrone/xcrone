@@ -3,10 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xcrone&label=Profile%20views&color=0e75b6&style=flat" alt="xcrone" /> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=xcrone&show_icons=true&locale=en" alt="xcrone" /></p>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=xcrone&" alt="xcrone" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xcrone&show_icons=true&locale=en&layout=compact" alt="xcrone" /></p>
+![](https://github-readme-stats.vercel.app/api?username=xcrone&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xcrone&theme=dark&hide_border=true)](https://git.io/streak-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=xcrone&theme=dark&show_icons=true&hide_border=true&locale=en&layout=compact)
 
 <hr>
 
