@@ -47,6 +47,10 @@ pipelines that ship them.
 ### ✍️ Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Flutter CICD android with CodeMagic](https://dev.to/xcrone/flutter-cicd-android-with-codemagic-24n7)
+- [Laravel Breeze &amp; Vue.js pagination component](https://dev.to/xcrone/laravel-vuejs-pagination-component-4f5o)
+- [Generate QR image using Laravel Job imagick](https://dev.to/xcrone/generate-qr-image-using-laravel-job-imagick-2cl0)
+- [Docker Error: /lib64/ld-linux-x86-64.so.2: No such file or directory](https://dev.to/xcrone/docker-error-lib64ld-linux-x86-64so2-no-such-file-or-directory-5214)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ More articles on [dev.to/xcrone](https://dev.to/xcrone)
