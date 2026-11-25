@@ -1,29 +1,54 @@
-<h1 align="center">Hi 👋, I'm Zahir Din</h1>
-<h3 align="center">Full-Stack Developer & DevOps Engineer</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xcrone&label=Profile%20views&color=0e75b6&style=flat" alt="xcrone" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:7c3aed&height=170&section=header&text=Zahir%20Din&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Lead%20Engineer%20%C2%B7%20Full-Stack%20%C2%B7%20DevOps%20%C2%B7%20Solution%20Architecture&descSize=16&descAlignY=58" alt="Zahir Din" width="100%" />
 
-![](https://github-readme-stats.vercel.app/api?username=xcrone&theme=dark&hide_border=true&include_all_commits=true&count_private=true) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xcrone&theme=dark&hide_border=true)](https://git.io/streak-stats) ![](https://github-readme-stats.vercel.app/api/top-langs?username=xcrone&theme=dark&show_icons=true&hide_border=true&locale=en&layout=compact)
+<a href="https://zahir.my"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=620&lines=Building+Laravel+%2B+Vue+apps+end+to+end;Running+AWS+%26+Cloudflare+with+Terraform;Zero-downtime+releases+with+GitHub+Actions;Cutting+cloud+costs+without+cutting+corners" alt="Typing intro" /></a>
 
-<hr>
-
-### Languages and Tools:
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
-
-<hr>
-
-### Connect with me:
-<p align="left">
-<a href="https://dev.to/xcrone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="xcrone" height="30" width="40" /></a>
+<p>
+  <a href="https://zahir.my"><img src="https://img.shields.io/badge/zahir.my-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/zahir-din-6a6b8418b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://dev.to/xcrone"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to" /></a>
+  <a href="mailto:mail@zahir.my"><img src="https://img.shields.io/badge/Email-7c3aed?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=xcrone&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </p>
 
-### Blogs posts
+</div>
+
+### 👋 About me
+
+I'm a hands-on engineer from **Kuala Lumpur, Malaysia** with 6+ years across the whole stack: building
+Laravel and Vue applications, designing the AWS and Cloudflare setup behind them, and running the
+pipelines that ship them.
+
+- 🏗️ **Now:** Senior Full-Stack Developer at **Supplycart**, owning the infrastructure, releases and security of 4 apps behind a B2B procurement SaaS (~320k requests/day)
+- ☁️ Moved the platform into **Terraform**, made releases **zero-downtime**, and cut running costs by **~40–47%**
+- 🔐 Core member of the **ISO/IEC 27001** readiness team: GitHub OIDC, SSM, Cloudflare Zero Trust, no open SSH
+- 👥 Previously **Team Lead** delivering systems for Malaysian government clients (PDRM, MAMPU, Universiti Malaya, DBKL)
+- 📚 Currently studying for **AWS Certified Solutions Architect**
+- 🌐 More about my work at **[zahir.my](https://zahir.my)**
+
+### 🛠️ Tech stack
+
+<p align="center"><b>Backend &amp; frontend</b><br/>
+  <img src="https://skillicons.dev/icons?i=php,laravel,vue,js,ts,tailwind,flutter,dart,python,solidity&perline=10" alt="Backend and frontend" />
+</p>
+<p align="center"><b>Cloud, DevOps &amp; data</b><br/>
+  <img src="https://skillicons.dev/icons?i=aws,terraform,cloudflare,workers,docker,githubactions,gitlab,linux,bash,nginx&perline=10" alt="Cloud and DevOps" /><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,elasticsearch,git,postman,figma&perline=10" alt="Data and tools" />
+</p>
+
+### 📊 GitHub activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=xcrone&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xcrone&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&bg_color=0D1117" alt="Top languages" height="170" />
+</p>
+
+### ✍️ Latest blog posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-- 📝 I regularly write articles on [https://dev.to/xcrone](https://dev.to/xcrone)
-- 📄 Know about my experiences [https://zahir.my](https://zahir.my)
+➡️ More articles on [dev.to/xcrone](https://dev.to/xcrone)
 
-<hr>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xcrone" alt="xcrone" /></a> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0e75b6&height=90&section=footer" alt="" width="100%" />
